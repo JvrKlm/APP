@@ -18,9 +18,9 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="Blog - ORI Solutions"
-          description="Čitajte naš blog kako biste bili u tijeku s najnovijim tehnološkim temama vezanim za dizajn, razvoj i konzultantske usluge."
-          keywords={['blog', 'gatsby', 'javascript', 'react']}
+          title="Vijesti - AP Projekt"
+          description=""
+          keywords={['natječaj', 'projekt', 'mjere']}
           image={ogImage}
         />
         <Breadcrumb>
